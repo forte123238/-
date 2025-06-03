@@ -331,7 +331,7 @@
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
                 <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
                 
-                 <strong><center>SE LIGA NO BÔNUS (0800!) 😉</center></strong>
+                 <strong><center>SE LIGA NO BÔNUS (0800!) 😉</center></strong><br>
                 <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
