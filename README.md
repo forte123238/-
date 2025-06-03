@@ -5,10 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="true">
     <meta name="MobileOptimized" content="width">
-    <meta name="theme-color" content="#ff0000">
+    <meta name="theme-color" content="#ff66b2">
     <meta name="format-detection" content="telephone=no">
-    <title>ChurrasEmo 2° Edição - Aniversário do Kelvym</title>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rock+Salt&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Festa da Katharyna - Bar Pub Night Girl</title>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         /* Reset otimizado para mobile */
         * {
@@ -28,7 +28,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             color: white;
-            background: url('background.png') no-repeat center center fixed;
+            background: url('Captura de Tela 2025-06-02 às 20.30.04.png') no-repeat center center fixed;
             background-size: cover;
             position: relative;
             min-height: 100vh;
@@ -46,7 +46,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: rgba(0, 0, 0, 0.6);
             z-index: -1;
         }
 
@@ -62,15 +62,15 @@
         header {
             text-align: center;
             padding: 15px 5px;
-            border-bottom: 2px solid #ff0000;
+            border-bottom: 2px solid #ff66b2;
             margin-bottom: 15px;
             width: 100%;
         }
 
         h1 {
-            font-family: 'Rock Salt', cursive;
-            font-size: 1.8rem;
-            color: #ff0000;
+            font-family: 'Dancing Script', cursive;
+            font-size: 2rem;
+            color: #ff66b2;
             text-shadow: 2px 2px 4px #000;
             margin-bottom: 5px;
             word-break: break-word;
@@ -89,7 +89,7 @@
         h3 {
             font-family: 'Bebas Neue', cursive;
             font-size: 1.3rem;
-            color: #ff0000;
+            color: #ff66b2;
             margin: 12px 0 5px;
             text-shadow: 1px 1px 2px #000;
             line-height: 1.2;
@@ -117,7 +117,7 @@
         }
 
         li:before {
-            content: '🎸';
+            content: '🍹';
             position: absolute;
             left: 0;
             font-size: 0.8em;
@@ -170,7 +170,7 @@
             max-height: 300px;
             border-radius: 5px;
             overflow: hidden;
-            box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+            box-shadow: 0 0 10px rgba(255, 102, 178, 0.5);
             width: 100%;
         }
 
@@ -180,7 +180,7 @@
             border: none;
         }
 
-        .band-list {
+        .playlist {
             columns: 1;
             column-gap: 15px;
             font-size: 0.9rem;
@@ -192,14 +192,14 @@
             object-fit: cover;
             border-radius: 5px;
             margin: 10px 0;
-            box-shadow: 0 0 6px rgba(255, 0, 0, 0.5);
+            box-shadow: 0 0 6px rgba(255, 102, 178, 0.5);
         }
 
         footer {
             text-align: center;
             padding: 12px 5px;
             margin-top: 20px;
-            border-top: 1px solid #ff0000;
+            border-top: 1px solid #ff66b2;
             font-size: 0.95rem;
             width: 100%;
         }
@@ -242,7 +242,7 @@
         }
 
         .submit-btn {
-            background: #ff0000;
+            background: #ff66b2;
             color: white;
             border: none;
             padding: 10px;
@@ -292,7 +292,7 @@
                 max-width: 600px;
                 padding: 15px;
             }
-            .band-list {
+            .playlist {
                 columns: 2;
             }
             .beer-info {
@@ -314,52 +314,54 @@
 <body>
     <div class="container">
         <header>
-            <h1>🎸 EDIÇÃO ESPECIAL 🎤</h1>
-            <h2>NIVER DA KATHARYNA</h2>
-            <p class="flashing">Tema: "No palco da minha vida, você é o vocalista!"</p>
+            <h1>✨ Festa da Katharyna ✨</h1>
+            <h2>BAR PUB NIGHT GIRL</h2>
+            <p class="flashing">Tema: "Vai ser épico, só alegria e drinks!"</p>
         </header>
 
         <div class="section">
-            <h3>📌 O QUE ROLA:</h3>
+            <h3>🍖 O QUE ROLA:</h3>
             <ul>
-                <li><strong>CHURRASCO COMPLETO</strong> (cortesia do chef)</li>
+                <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
                 <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img">
-                <li><strong>KARAOKÊ TEMÁTICO</strong> (prepare suas cordas vocais!)</li>
-                <li><strong>PLAYLIST ÉPICA:</strong></li>
+                <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
+                <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
+                <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
+                <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar a noite!</li>
             </ul>
             
-            <div class="band-list">
-                <p>A Skylit Drive, Black Veil Brides, Linkin Park, Marilyn Manson, Bring Me The Horizon, Falling in Reverse, Asking Alexandria, Glória, Rammstein, Iron Maiden, Pantera, Sepultura, Slipknot, Fresno, John Wayne, Bullet For My Valentine, Angra, Suicide Silence, Chelsea Grin, Alesana, Blessthefall, The Offspring, Sum41, Blink182, Of Mice & Men, AFI, Tokyo Hotel, Hawthorne Heights, My Chemical Romance, A Day To Remember, e muito mais!</p>
+            <div class="playlist">
+                <p>Música pop, funk, sertanejo, hits internacionais e tudo que anima a galera! Se tiver alguma sugestão, manda no grupo!</p>
             </div>
         </div>
 
         <div class="section">
             <h3>📅 QUANDO:</h3>
-            <p><span class="emoji">🗓️</span> <strong>Sábado, 28 de junho</strong></p>
-            <p><span class="emoji">⏰</span> <strong>A partir das 11h até as 23h</strong> (12h de festinha!)</p>
+            <p><span class="emoji">🗓️</span> <strong>Sábado, [DATA DO EVENTO]</strong></p>
+            <p><span class="emoji">⏰</span> <strong>A partir das [HORA DE INÍCIO]</strong> (Até acabar a energia!)</p>
         </div>
 
         <div class="section">
             <h3>📍 ONDE:</h3>
-            <p>Rua Dias Leme 281 - BNH - Mesquita (Rocha Sobrinho no GPS) <br>(mesmo local da 1° edição)</p>
+            <p>Rua Santa Clara 431 - Copacabana, Rio de Janeiro</p>
             
             <div class="map-container">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.328389422987!2d-43.4009196!3d-22.7786046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x99642c1e86d033%3A0xa592318537b3d5c0!2sRua%20Dias%20Leme%20281%20-%20BNH%20-%20Mesquita!5e0!3m2!1spt-BR!2sbr!4v1712080000000!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.254216178014!2d-43.18668892432058!3d-22.97055504024793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd544d245819d%3A0x5c35a3f5a5f6b5a4!2sRua%20Santa%20Clara%2C%20431%20-%20Copacabana%2C%20Rio%20de%20Janeiro%20-%20RJ!5e0!3m2!1spt-BR!2sbr!4v1620000000000!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
 
         <div class="section">
-            <h3>🎯 DRESS CODE:</h3>
+            <h3>👗 DRESS CODE:</h3>
             <ul>
-                <li><strong>Rockeiro(a) autêntico!</strong> (camisetas de banda, jaqueta de couro, spikes, ou o que achar foda)</li>
-                <li><strong>Opcional:</strong> Venha inspirado na sua banda favorita da lista!</li>
+                <li><strong>Seja você mesmo!</strong> Venha confortável e no seu estilo</li>
+                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno pra balada!</li>
             </ul>
         </div>
 
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
-            <p>"Bateu o riff da saudade? Me avisa até 25/06!"</p>
-            <a href="https://wa.me/5521981304519?text=Pode%20chamar%20o%20EMO!" class="whatsapp-btn">Pode Chamar o EMO!</a>
+            <p>"Vai ter que rolar confirmação, hein! Me avisa até [DATA LIMITE]!"</p>
+            <a href="https://wa.me/SEUNUMEROAQUI?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn">Confirmar Presença</a>
             
             <div class="rsvp-form">
                 <form id="confirmacaoForm">
@@ -375,7 +377,7 @@
                     
                     <div class="form-group">
                         <label for="mensagem">Mensagem (opcional):</label>
-                        <textarea id="mensagem" name="mensagem" placeholder="Ex: Vou levar Stella! Ou: Não posso faltar!"></textarea>
+                        <textarea id="mensagem" name="mensagem" placeholder="Ex: Vou levar carne! Ou: Não posso faltar!"></textarea>
                     </div>
                     
                     <button type="submit" class="submit-btn">ENVIAR CONFIRMAÇÃO</button>
@@ -386,19 +388,19 @@
         <div class="section">
             <h3>✨ OBS:</h3>
             <div class="beer-info">
-                <img src="bebidas.png" alt="Cervejas Brahma e Stella">
+                <img src="bebidas.png" alt="Bebidas">
                 <div>
-                    <p><strong>Tragam um Pack de latão Brahma ou Stella.</strong> Se você tá naqueles momentos difíceis, não deixe de vir, se está recebendo esse convite, você é especial e será muito bem vindo! Não deixem de vir, mesmo se não puder ajudar com a cerveja 🖤 pois eu mesmo já estarei colocando também alguns Pack's</p>
+                    <p><strong>Vai ter chopeira, então não precisa levar bebida, a não ser que você beba outra coisa!</strong> Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha. Vai ter beer pong e alguns petiscos!</p>
                 </div>
             </div>
-            <p>"Crianças? Só se souberem o refrão de 'Numb'!" <span class="emoji">😜</span></p>
+            <p>"Se estiver apertado, não deixa de vir! O importante é a presença!" <span class="emoji">😘</span></p>
         </div>
 
         <footer>
-            <p class="flashing">💀 TOQUE FINAL: 23:00hrs (12h de festinha)</p>
+            <p class="flashing">💃 ÚLTIMA CHAMADA: Até acabar a energia!</p>
             <br>
             <br>
-            <p class="text-center"> Developed for https://www.instagram.com/enceladus_market/ por ANDY</p>
+            <p class="text-center"> Developed for https://www.instagram.com/katharynabraga_/ por ANDY</p>
         </footer>
     </div>
 
@@ -452,7 +454,7 @@
                 const mensagem = document.getElementById('mensagem').value;
                 
                 // Formatar a mensagem para o WhatsApp
-                let textoWhatsApp = `*Confirmacao para o ChurrasEmo!*%0A%0A`;
+                let textoWhatsApp = `*Confirmacao para a festa da Katharyna!*%0A%0A`;
                 textoWhatsApp += `*Nome:* ${encodeURIComponent(nome)}%0A`;
                 textoWhatsApp += `*Telefone:* ${encodeURIComponent(telefone)}%0A`;
                 
@@ -462,8 +464,8 @@
                 
                 textoWhatsApp += `%0A_Enviado pelo formulário de confirmação_`;
                 
-                // Abrir WhatsApp com os dados
-                window.open(`https://wa.me/5521981304519?text=${textoWhatsApp}`, '_blank');
+                // Abrir WhatsApp com os dados (substitua pelo número correto)
+                window.open(`https://wa.me/SEUNUMEROAQUI?text=${textoWhatsApp}`, '_blank');
                 
                 // Limpar formulário (opcional)
                 this.reset();
