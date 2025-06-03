@@ -391,7 +391,7 @@
         <div class="section">
             <h3>✨ OBS:</h3>
             <div class="beer-info">
-                <img src="bebidas.png" alt="Bebidas">
+                <img src="Chopeira.png" alt="Bebidas">
                 <div>
                     <p><strong>Vai ter chopeira, então não precisa levar bebida, a não ser que você beba outra coisa!</strong> Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha. Vai ter beer pong e alguns petiscos!</p>
                 </div>
