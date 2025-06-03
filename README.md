@@ -397,7 +397,7 @@
                     
                     <div class="form-group">
                         <label for="mensagem">Mensagem (opcional):</label>
-                        <textarea id="mensagem" name="mensagem" placeholder="Ex: Vou levar carne! Ou: Não posso faltar!"></textarea>
+                        <textarea id="mensagem" name="mensagem" placeholder="Ex: Vou levar carne!Coloca a minha música! Posso levar amigo(a)? Ou: Não posso faltar!"></textarea>
                     </div>
                     
                     <button type="submit" class="submit-btn">ENVIAR CONFIRMAÇÃO</button>
