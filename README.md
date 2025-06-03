@@ -342,8 +342,8 @@
 
         <div class="section">
             <h3>📅 QUANDO:</h3>
-            <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de junho</strong></p>
-            <p><span class="emoji">⏰</span> <strong>A partir das 13 horas, rolando até às 21 horas </strong></p>
+            <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de julho</strong></p>
+            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até às 21 horas </strong></p>
         </div>
 
         <div class="section">
