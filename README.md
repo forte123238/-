@@ -413,7 +413,7 @@
                     <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p>Vai ter beer pong e alguns petiscos!</p>
                 </div>
             </div>
-            <p><center>Se estiver apertado, não deixa de vir! O importante é a presença!</center> <span class="emoji">😘</span></p>
+            <p><center>Se estiver apertado, não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
         </div>
 
         <footer>
