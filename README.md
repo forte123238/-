@@ -369,12 +369,14 @@
         <div class="section">
             <h3>Você pensou que iria faltar, né?</h3>
             <ul>
-                <li><strong>BALÃO SUPRESA!</strong> - lembra aqueles de festa? vai ter que estourar 🥳 kkkkk</li>
-                <img src="balaosurpresa.png" alt="balaosurpresa" class="balaosupresa-img"><br>
+                <li><strong>BALÃO SUPRESA!</strong> - vai ter que estourar, lembra aqueles de festa? 🥳 kkkkk</li>
+                <img src="balaosurpresa2.png" alt="balaosurpresa" class="balaosupresa-img"><br>
                 
                 <div class="playlist">
                     <p><center>Venha que vai ter muita curtição</center></p>
                 </div>
+            </ul>
+        </div>
         
 
         <div class="section">
