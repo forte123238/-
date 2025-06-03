@@ -370,7 +370,7 @@
             <h3>Você pensou que iria faltar, né?</h3>
             <ul>
                 <li><strong>BALÃO SUPRESA!</strong> - lembra aqueles de festa? vai ter que estourar! 🥳 kkkkk</li>
-                <img src="balaosurpresa3.png" alt="balaosurpresa" class="balaosupresa-img"><br>
+                <img src="balaosurpresa4.png" alt="balaosurpresa" class="balaosupresa-img"><br>
                 
                 <div class="playlist">
                     <p><center>Venha que vai ter muita curtição</center></p>
