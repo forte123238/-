@@ -321,7 +321,7 @@
             <ul>
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
                 <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
-                 <strong>SE LIGA NO BÔNUS (0800!) 😉</strong>
+                 <strong><center>SE LIGA NO BÔNUS (0800!) 😉</center></strong>
                 <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
@@ -329,7 +329,7 @@
             </ul>
             
             <div class="playlist">
-                <p>Música pop, rock, hits internacionais e tudo que anima a galera! Se tiver alguma sugestão, manda no grupo!</p>
+                <p>Música pop, rock, hits internacionais e tudo que anima a galera! Sugestões? Manda no campo 'MENSAGEM!</p>
             </div>
         </div>
 
@@ -358,7 +358,7 @@
 
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
-            <p>"Vai ter que rolar confirmação, hein! Me avisa até [DATA LIMITE]!"</p>
+            <p>"Vai ter que rolar confirmação, hein! Me avisa até 25 de julho!"</p>
             <a href="https://wa.me/5521988457601?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn" target="_blank">
                 <i class="fab fa-whatsapp"></i> Confirmar Presença
             </a>
