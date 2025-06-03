@@ -362,7 +362,7 @@
             <h3>Você pensou que iria faltar, né?</h3>
             <ul>
                 <li><strong>BALÃO SUPRESA!</strong> - vai ter que estourar, lembra aqueles de festa? 🥳 kkkkk</li>
-                <img src="balaosupresa.png" alt="Churrasco" class="churrasco-img"><br>
+                <img src="balaosupresa.png" alt="balaosurpresa" class="balaosupresa-img"><br>
                 
             <div class="playlist">
                 <p><center>Venha que vai ter muita curtição</center></p>
