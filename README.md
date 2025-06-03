@@ -341,7 +341,7 @@
         </div>
 
         <div class="section">
-            <h3>📍 ONDE BROTAR?</h3>
+            <h3>📍 ONDE VAI SER? EM COPACABANA!</h3>
             <p>Rua Santa Clara 431 - Copacabana, Rio de Janeiro</p>
             
             <div class="map-container">
