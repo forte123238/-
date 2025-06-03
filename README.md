@@ -316,14 +316,15 @@
         <header>
             <h1>✨ Venha para a minha festa ✨</h1>
             <h2>no Playground!</h2>
-            <p class="flashing">Tema: "Vai ser épico, só alegria e drinks!"</p>
+            <p class="flashing">Vai ser épico, só alegria e drinks!</p>
         </header>
 
         <div class="section">
             <h3>🍖 O QUE ROLA:</h3>
             <ul>
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
-                <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img">
+                <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
+                 <li><strong>SE LIGA NO BÔNUS (0800!) 😉</strong> </li>
                 <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
