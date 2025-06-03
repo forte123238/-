@@ -397,7 +397,7 @@
         </div>
 
         <footer>
-            <p class="flashing">💃 ÚLTIMA CHAMADA: Até acabar a energia!</p>
+            <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
             <br>
             <br>
             <p class="text-center"> Developed for https://www.instagram.com/katharynabraga_/ por ANDY</p>
