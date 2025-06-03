@@ -28,7 +28,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             color: white;
-            background: url('Captura de Tela 2025-06-02 às 20.30.04.png') no-repeat center center fixed;
+            background: url('Fotoespelho.png') no-repeat center center fixed;
             background-size: cover;
             position: relative;
             min-height: 100vh;
@@ -324,7 +324,7 @@
             <ul>
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
                 <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
-                 <li><strong>SE LIGA NO BÔNUS (0800!) 😉</strong> </li>
+                 <strong>SE LIGA NO BÔNUS (0800!) 😉</strong>
                 <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
