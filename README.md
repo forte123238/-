@@ -335,7 +335,7 @@
                 <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
-                <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar a noite! Sugestões de música? Mande mensagem</li>
+                <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar! Sugestões de música? Pode ser Pop, Rock, nacionais ou internacionais, ou o que desejar! Mande mensagem</li>
             </ul>
            
         </div>
