@@ -329,7 +329,7 @@
             </ul>
             
             <div class="playlist">
-                <p>Música pop, rock, hits internacionais e tudo que anima a galera! Sugestões? Manda no campo 'MENSAGEM!</p>
+                <p>Música pop, rock, hits internacionais e tudo que anima a galera!Sugestões? Manda no campo 'MENSAGEM!</p>
             </div>
         </div>
 
