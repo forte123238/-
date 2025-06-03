@@ -378,7 +378,7 @@
 
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
-            <p>"Vai ter que rolar confirmação, hein! Me avisa até 25 de julho!"</p>
+            <p>Vai ter que rolar confirmação, hein! Me avisa até 25 de julho!</p>
             <a href="https://wa.me/5521988457601?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn" target="_blank">
                 <i class="fab fa-whatsapp"></i> Confirmar Presença
             </a>
