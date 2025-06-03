@@ -420,7 +420,7 @@
             <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
             <br>
             <br>
-            <p class="text-center">Developed for <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p>
+            <p class="text-center">Developed by <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p>
         </footer>
     </div>
 
