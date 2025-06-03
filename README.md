@@ -321,6 +321,7 @@
             <ul>
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
                 <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
+                
                  <strong><center>SE LIGA NO BÔNUS (0800!) 😉</center></strong>
                 <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
@@ -329,7 +330,7 @@
             </ul>
             
             <div class="playlist">
-                <p>Música pop, rock, hits internacionais e tudo que anima a galera!Sugestões? Manda no campo 'MENSAGEM!</p>
+                <p>Música pop, rock, hits internacionais e tudo que anima a galera!Sugestões?</p>
             </div>
         </div>
 
@@ -355,6 +356,22 @@
                 <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno pra balada!</li>
             </ul>
         </div>
+
+
+<div class="section">
+            <h3>Você pensou que iria faltar, né?</h3>
+            <ul>
+                <li><strong>BALÃO SUPRESA!</strong> - vai ter que estourar, lembra aqueles de festa? 🥳 kkkkk</li>
+                <img src="balaosupresa.png" alt="Churrasco" class="churrasco-img"><br>
+                
+            <div class="playlist">
+                <p><center>Venha que vai ter muita curtição</center></p>
+            </div>
+        </div>
+
+
+
+        
 
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
