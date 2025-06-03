@@ -195,6 +195,15 @@
             box-shadow: 0 0 6px rgba(255, 102, 178, 0.5);
         }
 
+        .balaosupresa-img {
+            width: 100%;
+            max-height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+            margin: 10px 0;
+            box-shadow: 0 0 6px rgba(255, 102, 178, 0.5);
+        }
+
         footer {
             text-align: center;
             padding: 12px 5px;
@@ -357,21 +366,17 @@
             </ul>
         </div>
 
-
-<div class="section">
+        <div class="section">
             <h3>Você pensou que iria faltar, né?</h3>
             <ul>
                 <li><strong>BALÃO SUPRESA!</strong> - vai ter que estourar, lembra aqueles de festa? 🥳 kkkkk</li>
                 <img src="balaosupresa.png" alt="balaosurpresa" class="balaosupresa-img"><br>
                 
-            <div class="playlist">
-                <p><center>Venha que vai ter muita curtição</center></p>
+                <div class="playlist">
+                    <p><center>Venha que vai ter muita curtição</center></p>
+                </div>
             </div>
         </div>
-
-
-
-        
 
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
@@ -417,7 +422,8 @@
             <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
             <br>
             <br>
-<p class="text-center">Developed for <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p></footer>
+            <p class="text-center">Developed for <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p>
+        </footer>
     </div>
 
     <script>
@@ -459,7 +465,7 @@
                 this.value = formatted;
             });
 
-            // Formulário de confirmação - CORREÇÃO PRINCIPAL
+            // Formulário de confirmação
             document.getElementById('confirmacaoForm').addEventListener('submit', function(e) {
                 e.preventDefault();
                 
