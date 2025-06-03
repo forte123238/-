@@ -331,7 +331,7 @@
             </ul>
             
             <div class="playlist">
-                <p>Música pop, funk, sertanejo, hits internacionais e tudo que anima a galera! Se tiver alguma sugestão, manda no grupo!</p>
+                <p>Música pop, rock, hits internacionais e tudo que anima a galera! Se tiver alguma sugestão, manda no grupo!</p>
             </div>
         </div>
 
@@ -342,7 +342,7 @@
         </div>
 
         <div class="section">
-            <h3>📍 ONDE:</h3>
+            <h3>📍 ONDE BROTAR?</h3>
             <p>Rua Santa Clara 431 - Copacabana, Rio de Janeiro</p>
             
             <div class="map-container">
@@ -361,7 +361,7 @@
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
             <p>"Vai ter que rolar confirmação, hein! Me avisa até [DATA LIMITE]!"</p>
-            <a href="https://wa.me/SEUNUMEROAQUI?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn">Confirmar Presença</a>
+            <a href="https://wa.me/‪5521988457601‬?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn">Confirmar Presença</a>
             
             <div class="rsvp-form">
                 <form id="confirmacaoForm">
@@ -465,7 +465,7 @@
                 textoWhatsApp += `%0A_Enviado pelo formulário de confirmação_`;
                 
                 // Abrir WhatsApp com os dados (substitua pelo número correto)
-                window.open(`https://wa.me/SEUNUMEROAQUI?text=${textoWhatsApp}`, '_blank');
+                window.open(`https://wa.me/‪5521988457601‬?text=${textoWhatsApp}`, '_blank');
                 
                 // Limpar formulário (opcional)
                 this.reset();
