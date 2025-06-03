@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -9,8 +10,8 @@
     <meta name="format-detection" content="telephone=no">
     <title>Festa da Katharyna - Bar Pub Night Girl</title>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <style>
-        /* Reset otimizado para mobile */
         * {
             margin: 0;
             padding: 0;
@@ -204,7 +205,6 @@
             width: 100%;
         }
 
-        /* Formulário otimizado para mobile */
         .rsvp-form {
             margin-top: 12px;
             background: rgba(0, 0, 0, 0.6);
@@ -271,7 +271,6 @@
             vertical-align: middle;
         }
 
-        /* Media Queries específicas para dispositivos pequenos */
         @media only screen and (max-width: 320px) {
             h1 {
                 font-size: 1.5rem;
@@ -300,7 +299,6 @@
             }
         }
 
-        /* Correção específica para Safari iOS */
         @supports (-webkit-touch-callout: none) {
             body {
                 height: -webkit-fill-available;
@@ -338,8 +336,8 @@
 
         <div class="section">
             <h3>📅 QUANDO:</h3>
-            <p><span class="emoji">🗓️</span> <strong>Sábado, [DATA DO EVENTO]</strong></p>
-            <p><span class="emoji">⏰</span> <strong>A partir das [HORA DE INÍCIO]</strong> (Até acabar a energia!)</p>
+            <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de junho</strong></p>
+            <p><span class="emoji">⏰</span> <strong>A partir das 13 horas, rolando até às 21 horas </strong></p>
         </div>
 
         <div class="section">
@@ -363,8 +361,8 @@
             <h3>📞 CONFIRMAÇÃO:</h3>
             <p>"Vai ter que rolar confirmação, hein! Me avisa até [DATA LIMITE]!"</p>
             <a href="https://wa.me/5521988457601?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn" target="_blank">
-   <i class="fab fa-whatsapp"></i> Confirmar Presença
-</a>
+                <i class="fab fa-whatsapp"></i> Confirmar Presença
+            </a>
             
             <div class="rsvp-form">
                 <form id="confirmacaoForm">
@@ -408,7 +406,6 @@
     </div>
 
     <script>
-        // Efeito de digitação para o título
         document.addEventListener('DOMContentLoaded', function() {
             const titles = document.querySelectorAll('h1, h2, h3');
             
@@ -427,13 +424,12 @@
                 }, 100);
             });
             
-            // Máscara para telefone otimizada para mobile
+            // Máscara para telefone
             const phoneInput = document.getElementById('telefone');
             phoneInput.addEventListener('input', function(e) {
                 let numbers = this.value.replace(/\D/g, '');
                 if (numbers.length > 11) numbers = numbers.substring(0, 11);
                 
-                // Formatar como (XX) XXXXX-XXXX
                 let formatted = '';
                 if (numbers.length > 0) {
                     formatted = '(' + numbers.substring(0, 2);
@@ -448,16 +444,25 @@
                 this.value = formatted;
             });
 
-            // Envio do formulário
+            // Formulário de confirmação - CORREÇÃO PRINCIPAL
             document.getElementById('confirmacaoForm').addEventListener('submit', function(e) {
                 e.preventDefault();
                 
-                const nome = document.getElementById('nome').value;
-                const telefone = document.getElementById('telefone').value;
-                const mensagem = document.getElementById('mensagem').value;
+                const nome = document.getElementById('nome').value.trim();
+                const telefone = document.getElementById('telefone').value.trim();
+                const mensagem = document.getElementById('mensagem').value.trim();
                 
-                // Formatar a mensagem para o WhatsApp
-                let textoWhatsApp = `*Confirmacao para a festa da Katharyna!*%0A%0A`;
+                // Validação básica
+                if (!nome || !telefone) {
+                    alert('Por favor, preencha seu nome e telefone!');
+                    return;
+                }
+                
+                // Número formatado corretamente (sem caracteres especiais)
+                const numeroWhatsApp = '5521988457601';
+                
+                // Construção da mensagem
+                let textoWhatsApp = `*Confirmação para a festa da Katharyna!*%0A%0A`;
                 textoWhatsApp += `*Nome:* ${encodeURIComponent(nome)}%0A`;
                 textoWhatsApp += `*Telefone:* ${encodeURIComponent(telefone)}%0A`;
                 
@@ -465,12 +470,10 @@
                     textoWhatsApp += `*Mensagem:* ${encodeURIComponent(mensagem)}%0A`;
                 }
                 
-                textoWhatsApp += `%0A_Enviado pelo formulário de confirmação_`;
+                // Abrir WhatsApp
+                window.open(`https://wa.me/${numeroWhatsApp}?text=${textoWhatsApp}`, '_blank');
                 
-                // Abrir WhatsApp com os dados (substitua pelo número correto)
-                window.open(`https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensagem)}`,'_blank');
-                
-                // Limpar formulário (opcional)
+                // Limpar formulário
                 this.reset();
             });
         });
