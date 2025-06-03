@@ -314,7 +314,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>✨ Venha para a minha festa ✨</h1>
+            <h1>✨ Venha para a minha festa! ✨</h1>
             <h2>no Playground!</h2>
             <p class="flashing">Vai ser épico, só alegria e drinks!</p>
         </header>
@@ -362,7 +362,9 @@
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
             <p>"Vai ter que rolar confirmação, hein! Me avisa até [DATA LIMITE]!"</p>
-            <a href="https://wa.me/‪5521988457601‬?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn">Confirmar Presença</a>
+            <a href="https://wa.me/5521988457601?text=Eu%20vou%20na%20festa%20da%20Katharyna!" class="whatsapp-btn" target="_blank">
+   <i class="fab fa-whatsapp"></i> Confirmar Presença
+</a>
             
             <div class="rsvp-form">
                 <form id="confirmacaoForm">
@@ -466,7 +468,7 @@
                 textoWhatsApp += `%0A_Enviado pelo formulário de confirmação_`;
                 
                 // Abrir WhatsApp com os dados (substitua pelo número correto)
-                window.open(`https://wa.me/‪5521988457601‬?text=${textoWhatsApp}`, '_blank');
+                window.open(`https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(mensagem)}`,'_blank');
                 
                 // Limpar formulário (opcional)
                 this.reset();
