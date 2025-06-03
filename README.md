@@ -400,7 +400,7 @@
             <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
             <br>
             <br>
-            <p class="text-center"> Developed for https://www.instagram.com/katharynabraga_/ por ANDY</p>
+            <p class="text-center"> Developed for Andy</p>
         </footer>
     </div>
 
