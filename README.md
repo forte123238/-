@@ -359,7 +359,7 @@
             <h3>👗 DRESS CODE:</h3>
             <ul>
                 <li><strong>Seja você mesmo!</strong> Venha confortável e no seu estilo</li>
-                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno pra balada!</li>
+                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno!</li>
             </ul>
         </div>
 
