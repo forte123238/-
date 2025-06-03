@@ -314,8 +314,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>✨ Festa da Katharyna ✨</h1>
-            <h2>BAR PUB NIGHT GIRL</h2>
+            <h1>✨ Venha para a minha festa ✨</h1>
+            <h2>no Playground!</h2>
             <p class="flashing">Tema: "Vai ser épico, só alegria e drinks!"</p>
         </header>
 
